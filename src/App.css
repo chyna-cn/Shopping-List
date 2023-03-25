@@ -22,3 +22,14 @@ form{
     text-align: center;
     padding-bottom: 5%;
 }
+li{
+   display: flex;
+    vertical-align: middle;
+    margin-left: 10%;
+    margin-right: 30%;
+    justify-content: space-between;
+}
+.delete{
+    vertical-align: middle;
+
+}
